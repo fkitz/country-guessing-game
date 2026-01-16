@@ -51,7 +51,7 @@ Congo,-1,15
 Congo,0,25
 Cook Islands,-21.2333,-159.7667
 Costa Rica,10,-84
-C“te d'Ivoire,8,-5
+Câ€œte d'Ivoire,8,-5
 Croatia,45.1667,15.5
 Cuba,21.5,-80
 Cyprus,35,33
@@ -166,7 +166,7 @@ Norway,62,10
 Oman,21,57
 Pakistan,30,70
 Palau,7.5,134.5
-Palestinian Territory",32,35.25
+Palestinian Territory,32,35.25
 Panama,9,-80
 Papua New Guinea,-6,147
 Paraguay,-23,-58
@@ -177,7 +177,7 @@ Poland,52,20
 Portugal,39.5,-8
 Puerto Rico,18.25,-66.5
 Qatar,25.5,51.25
-R‚union,-21.1,55.6
+Râ€šunion,-21.1,55.6
 Romania,46,25
 Russian Federation,60,100
 Rwanda,-2,30
@@ -242,3 +242,4 @@ Western Sahara,24.5,-13
 Yemen,15,48
 Zambia,-15,30
 Zimbabwe,-20,30
+
