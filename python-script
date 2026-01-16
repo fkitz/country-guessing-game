@@ -1,6 +1,6 @@
 import csv
 import random
-file_handle = open('c:/YOUR--PATH/Countries.csv')
+file_handle = open('c:/YOUR--PATH/countries.csv')
 reader = csv.DictReader(file_handle)
 countries = list(reader)
 file_handle.close()
@@ -62,3 +62,4 @@ def game_rules():   # this function defines game rules
 game_rules()  # runs the game
 
 log.close()  # closes the log.txt file after the game is complete
+
